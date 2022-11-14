@@ -4,5 +4,5 @@
 ## Resources
 
 ## Authors
-* **Asere Oluwatumise S.** - [Tumixs](https://github.com/Tumixs)
+* **Asere Oluwatumise ** - [Tumixs](https://github.com/Tumixs)
 * **Alex-bennet Esien** - [Lexykeyz](https://github.com/Lexykeyz)
